@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacobTheIdiot
 - 👀 I’m interested in ... java
 - 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... uh
+- 💞️ I’m looking to collaborate on ... making clinets i guess
 - 📫 How to reach me ... JC9606#0153
 
 <!---
