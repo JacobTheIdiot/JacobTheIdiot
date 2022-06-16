@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacobTheIdiot
-- 👀 I’m interested in ... java
+- 👀 I’m interested in ... java & kotlin
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... making clinets i guess
 - 📫 How to reach me ... JC9606#0153
